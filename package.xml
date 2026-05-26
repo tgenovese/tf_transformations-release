@@ -2,12 +2,15 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>tf_transformations</name>
-  <version>1.0.1</version>
+  <version>1.1.1</version>
   <description>
       Reimplementation of the tf/transformations.py library for common Python spatial operations
   </description>
-  <maintainer email="davidvlu@gmail.com">David V. Lu!!</maintainer>
+  <maintainer email="david@metrorobots.com">David V. Lu!!</maintainer>
   <license>BSD</license>
+
+  <depend>python3-transforms3d</depend>
+  <depend>python3-numpy</depend>
 
   <test_depend>ament_flake8</test_depend>
   <test_depend>ament_pep257</test_depend>

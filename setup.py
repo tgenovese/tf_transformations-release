@@ -4,7 +4,7 @@ package_name = 'tf_transformations'
 
 setup(
     name=package_name,
-    version='1.0.0',
+    version='1.1.1',
     packages=[package_name],
     data_files=[
         ('share/ament_index/resource_index/packages',
@@ -14,7 +14,7 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='David V. Lu!!',
-    maintainer_email='davidvlu@gmail.com',
+    maintainer_email='david@metrorobots.com',
     description='Reimplementation of the tf/transformations.py library',
     license='BSD',
     tests_require=['pytest'],
