@@ -1,3 +1,26 @@
+## tf_transformations (jazzy) - 1.1.1-3
+
+The packages in the `tf_transformations` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy --override-release-repository-push-url git@github.com:tgenovese/tf_transformations-release.git tf_transformations` on `Tue, 26 May 2026 13:27:23 -0000`
+
+The `tf_transformations` package was released.
+
+Version of package(s) in repository `tf_transformations`:
+
+- upstream repository: https://github.com/DLu/tf_transformations.git
+- release repository: https://github.com/tgenovese/tf_transformations-release.git
+- rosdistro version: `1.1.1-1`
+- old version: `1.1.1-2`
+- new version: `1.1.1-3`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## tf_transformations (jazzy) - 1.1.1-2
 
 The packages in the `tf_transformations` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy --override-release-repository-push-url git@github.com:tgenovese/tf_transformations-release.git tf_transformations` on `Tue, 26 May 2026 13:09:34 -0000`
